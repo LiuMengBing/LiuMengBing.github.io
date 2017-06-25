@@ -22,9 +22,3 @@ highlighter: Pygments
 markdown: kramdown
 
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
-
-weibo
- appid : http://weibo.com/3950696767/profile?topnav=1&wvr=6&is_all=1
- num_posts: 5
- width: 580
- colorscheme: light
